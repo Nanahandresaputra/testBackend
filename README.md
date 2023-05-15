@@ -47,3 +47,5 @@ menghapus promo
 ```http
  DELETE http://localhost:3000/api/promo/{promo_id}
 ```
+
+#### \*NOTE: untuk booking bus belum selesai dikerjakan
